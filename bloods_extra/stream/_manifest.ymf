@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>bloods_extra</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>v_fences_2</Item>
+        <Item>plg_rd</Item>
+        <Item>santamon_metadata_004</Item>
+        <Item>country_01_metadata_011_strm</Item>
+        <Item>v_seating</Item>
+        <Item>v_sports</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>
